@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Satyarthi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Thinker.%20Breaker%20of%20prod.&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1000&color=7C83FD&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(IoT)+%40+Shiv+Nadar+University+Chennai;Co-building+RunOne+—+social+fitness+for+run+clubs;MIRAGE+won+a+hackathon.+Graph-based+fraud+detection.;Saarthi+does+voice+AI+in+Indian+English+on-device;TimescaleDB+%2B+WebSockets+%2B+whatever+the+job+needs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=7C83FD&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(IoT)+Student;Full-Stack+Developer+and+Builder;Interested+in+AI%2C+IoT+and+Distributed+Systems" />
 
 <br/>
 
@@ -139,28 +139,6 @@ Arduino + Peltier module + PID control loop + 3D-printed enclosure. Hardware pro
 </div>
 
 ---
-
-## 📊 numbers
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyamcoder-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamcoder-2006&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Satyamcoder-2006&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyamcoder-2006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
-
 ---
 
 ## 📈 contribution graph
